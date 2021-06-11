@@ -1,4 +1,4 @@
 # hello-world
 First repository 
 
-Hi there. How is is going? 
+Hi there. How is it going? 
